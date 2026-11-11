@@ -1,5 +1,5 @@
 
-const ATTENDANCE_PASSWORD = "CAPSTONE2026";
+const ATTENDANCE_PASSWORD = "Password123";
 
 const params = new URLSearchParams(window.location.search);
 
